@@ -1,0 +1,15 @@
+.wrapper{
+  background-color:grey;
+  color:white;
+  font-size: large;
+  text-align: center;
+  justify-content: center;
+  height:1000px;
+  
+}
+.innerWrapper{
+  padding: 200px;
+}
+.listItems{
+  color:white
+}
